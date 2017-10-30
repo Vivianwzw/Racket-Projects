@@ -1,0 +1,13 @@
+************************Word Typing Game***********************
+                                                       
+-------------------------*| Rules |*------------------------
+
+In this game, English words will drop from the screen and user can type the words to make them disappear before they reach the bottom.
+
+If the words already reach the bottom, they can't be erased and would start to accumulate. And if the words are full of the screen, the player lose.
+
+Every words that player correctly type in will count in to score.
+
+This game aims to help children learning typing.
+
+******************************************************************
